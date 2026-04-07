@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain
+google-generativeai
+pdf2image
+python-multipart
+Pillow
+uv
