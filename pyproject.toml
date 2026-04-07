@@ -1,0 +1,16 @@
+[project]
+name = "claim-processing-pipeline"
+version = "0.1.0"
+description = "FastAPI + LangGraph claim PDF processing pipeline"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+	"fastapi",
+	"uvicorn",
+	"langgraph",
+	"langchain",
+	"google-generativeai",
+	"pdf2image",
+	"python-multipart",
+	"Pillow",
+]
