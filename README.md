@@ -1,6 +1,6 @@
 # Claim Processing Pipeline
 
-FastAPI + LangGraph service for claim PDF page classification and routed extraction.
+FastAPI + LangGraph for claim PDF page classification and routed extraction.
 
 ## Overview
 
