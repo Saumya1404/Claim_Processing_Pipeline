@@ -9,8 +9,10 @@ dependencies = [
 	"uvicorn",
 	"langgraph",
 	"langchain",
-	"google-generativeai",
-	"pdf2image",
+	"google-genai",
+	"pillow",
+	"pytesseract",
+	"pymupdf",
 	"python-multipart",
-	"Pillow",
+	"uv>=0.11.4",
 ]
